@@ -1,0 +1,57 @@
+# 📊 Unemployment Analysis in India using Python
+
+## Project Overview
+
+This project was developed as part of the **CodeAlpha Data Science Internship**. The objective was to analyze unemployment trends in India, evaluate the impact of the Covid-19 pandemic on employment, identify regional and seasonal patterns, and derive meaningful insights through data analysis and visualization.
+
+## Key Objectives
+
+* Perform data cleaning and preprocessing.
+* Analyze unemployment trends across different regions of India.
+* Investigate the impact of Covid-19 on unemployment rates.
+* Compare Urban and Rural unemployment patterns.
+* Identify seasonal trends and regional disparities.
+* Develop interactive visualizations and dashboards.
+* Generate policy-oriented insights and recommendations.
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Scikit-Learn
+* YData Profiling
+* Google Colab
+
+## Analysis Performed
+
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* State-wise Unemployment Analysis
+* Covid-19 Impact Assessment
+* Urban vs Rural Comparison
+* Correlation Analysis
+* Seasonal Trend Analysis
+* Interactive Dashboard Visualization
+* Unemployment Trend Forecasting
+
+## Key Findings
+
+* Unemployment rates increased significantly during the Covid-19 period.
+* Urban regions experienced greater employment disruptions compared to rural regions.
+* Several states consistently reported higher unemployment rates than the national average.
+* Seasonal fluctuations indicate variations in labor demand throughout the year.
+* Labour participation rate showed a measurable relationship with unemployment levels.
+
+## Outcome
+
+The project provides a comprehensive understanding of unemployment patterns in India and demonstrates the application of data science techniques for economic analysis, trend identification, and evidence-based decision making.
+
+## Author
+
+**Shreya Lad**
+Computer Science Engineering Student
+CodeAlpha Data Science Intern
